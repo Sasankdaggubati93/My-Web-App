@@ -23,3 +23,8 @@ justify-content: center;  /* Centers the content */
   font-weight: bold;
   cursor: pointer;
 }
+
+.resume{
+  width:50%;
+  margin:0 auto;
+}
